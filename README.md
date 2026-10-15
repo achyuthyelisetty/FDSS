@@ -52,5 +52,7 @@ AI Enthusiasts
 MBA Business Analytics | IIM Sambalpur
 
 LinkedIn: 
+
 https://www.linkedin.com/in/achyuth-yelisetty
+
 https://www.linkedin.com/in/abhishek-raghav-b944b51b5/
