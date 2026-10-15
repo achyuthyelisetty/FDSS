@@ -1,8 +1,8 @@
 AI-Powered Financial Decision Support System
 
-Overview
-This project is an AI-powered Financial Decision Support System that analyzes market data and financial news to generate Buy, Sell, or Hold recommendations.
+Overview:
 
+This project is an AI-powered Financial Decision Support System that analyzes market data and financial news to generate Buy, Sell, or Hold recommendations.
 
 It combines multiple machine learning models with technical indicators and a custom Signal Logic Model (SLM) to support investment decision-making.
 
