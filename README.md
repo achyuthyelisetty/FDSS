@@ -6,7 +6,8 @@ This project is an AI-powered Financial Decision Support System that analyzes ma
 
 It combines multiple machine learning models with technical indicators and a custom Signal Logic Model (SLM) to support investment decision-making.
 
-Features
+Features:
+
 Historical market data collection
 Financial news analysis
 Feature engineering
@@ -38,7 +39,8 @@ Streamlit dashboard
 Portfolio optimization
 
 
-Disclaimer
+Disclaimer:
+
 This project is developed for learning and educational purposes only. It should not be considered financial advice.
 
 Author
