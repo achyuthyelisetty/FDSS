@@ -43,7 +43,8 @@ Disclaimer:
 
 This project is developed for learning and educational purposes only. It should not be considered financial advice.
 
-Author
+Author:
+
 Achyuth Athreya Yelisetty & Abhishek Raghav
 
 AI Enthusiasts
