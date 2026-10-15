@@ -45,7 +45,9 @@ This project is developed for learning and educational purposes only. It should 
 
 Author
 Achyuth Athreya Yelisetty & Abhishek Raghav
+
 AI Enthusiasts
+
 MBA Business Analytics | IIM Sambalpur
 
 LinkedIn: 
